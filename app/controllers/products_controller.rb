@@ -16,7 +16,7 @@ class ProductsController < ApplicationController
 
     if @product.save
       redirect_to @product
-    else 
+    else
       render :new
     end
   end
@@ -31,19 +31,19 @@ class ProductsController < ApplicationController
     if @product.update(product_params)
       redirect_to @product
     else
-      render :edit  
+      render :edit
     end
   end
 
   def destroy
     @product = Product.find(params[:id])
     @product.destroy
-    
     redirect_to root_path
   end
 
-  private 
+  private
+
   def product_params
-    params.require(:product).permit(:name)
+    params.require(:product).permit(:name, :code, :price, :img_url)
   end
-end 
+end
