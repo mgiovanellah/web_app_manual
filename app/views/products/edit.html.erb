@@ -4,12 +4,12 @@
 	<div>
 		<%= f.label :name %><br>
 		<%= f.text_field :name %>
-	</div>	
+	</div>
 
 	<div>
 		<%= f.label :code %><br>
 		<%= f.text_field :code %>
-	</div>	
+	</div>
 
 	<div>
 		<%= f.label :price %><br>
@@ -17,7 +17,10 @@
 	</div>
 
 	<div>
-	<%= image_tag "https://carrefourbr.vtexassets.com/arquivos/ids/6635173/MP19137704_Bicicleta-Aro-26-Aero-21-Marchas-Velox-Branca---Ello-Bike_1_Zoom.jpg?v=637345946087200000" %>
+		<%= f.label :img_url %><br>
+		<%= f.text_field :img_url %>
+	</div>
+
 	<div>
 		<%= f.submit %>
 	</div>
@@ -27,4 +30,3 @@
 <%= link_to "Atualizar", products_path %>
 
 
-	
