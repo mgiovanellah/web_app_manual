@@ -1,4 +1,4 @@
-<h1>Show Products</h1>
+<h1>Exibir Produtos</h1>
 
 <p>
 	<strong>Nome:</strong>
@@ -16,10 +16,10 @@
 </p>
 
 <p>
-	<%= image_tag "https://carrefourbr.vtexassets.com/arquivos/ids/6635173/MP19137704_Bicicleta-Aro-26-Aero-21-Marchas-Velox-Branca---Ello-Bike_1_Zoom.jpg?v=637345946087200000" %>
+	<strong>URL:</strong>
+	<%= @product.img_url %>
 </p>
 
-
 <%= link_to "Voltar", products_path %>
-<%= link_to "Editar", edit_product_path%>
+<%= link_to "Editar", edit_product_path(@product)%>
 <%= link_to "Deletar", product_path, method: :delete, data: { confirm: "Tem certeza?" } %>
