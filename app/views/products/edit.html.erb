@@ -1,0 +1,30 @@
+<h1>Edit Product</h1>
+
+<%= form_with model: @product do |f| %>
+	<div>
+		<%= f.label :name %><br>
+		<%= f.text_field :name %>
+	</div>
+
+	<div>
+		<%= f.label :code %><br>
+		<%= f.text_field :code %>
+	</div>
+
+	<div>
+		<%= f.label :price %><br>
+		<%= f.text_field :price %>
+	</div>
+
+	<div>
+		<%= f.label :img_url %><br>
+		<%= f.text_field :img_url %>
+	</div>
+
+	<div>
+		<%= f.submit %>
+	</div>
+<% end %>
+
+<%= link_to "Voltar", product_path %>
+<%= link_to "Atualizar", products_path %>

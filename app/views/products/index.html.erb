@@ -1,0 +1,28 @@
+<h1>Products INDEX</h1>
+
+<table border="1">
+	<thead>
+		<tr>
+			<th>Nome</th>
+			<th>Código</th>
+			<th>Preço</th>
+			<th>Link Imagem do Produto</th>
+		</tr>
+	</thead>
+<tbody>
+	<% @products.each do |product| %>
+		<tr>
+			<td><%= product.name %></td>
+			<td><%= product.code %></td>
+			<td><%= product.price %></td>
+			<td><%= product.img_url %></td>
+			<td>
+				<%= link_to "Mostrar Produto", product %>
+			</td>
+		</tr>
+	<% end %>
+</tbody>
+</table>
+<br>
+<%= link_to "Novo Produto", new_product_path %>
+
