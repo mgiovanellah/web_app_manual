@@ -5,6 +5,5 @@
 <h2>Overview</h2>
 The product register is a web application that facilitates the registration of products easily and quickly, helping the user to have no complications 😄
 
-
-  
+Technology and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="50" height="50"/>
