@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/79415128/148537348-7fa0eac4-79f8-4bf0-be6a-2220b418c9ee.png" width="400" height="400"/>
-
+Register the product simply and quickly!
 
 
 This README would normally document whatever steps are necessary to get the
