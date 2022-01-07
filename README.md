@@ -5,22 +5,5 @@
 <h2>Overview</h2>
 The product register is a web application that facilitates the registration of products easily and quickly, helping the user to have no complications 😄
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<h2>Technology and Tools</h2
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="100" height="100 />
