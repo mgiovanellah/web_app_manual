@@ -4,7 +4,7 @@
 
 <h2>Overview</h2>
 The product register is a web application that facilitates the registration of products easily and quickly, helping the user to have no complications 😄.
-The user connects to the web application and registers the product having access to information such as prices, image, id...
+The user connects to the web application and registers the product having access to information such as name, prices, image, id...
 
 <h2>Technology and Tools</h2>
 <p>
