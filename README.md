@@ -7,4 +7,4 @@ The product register is a web application that facilitates the registration of p
 
 <h2>Technology and Tools</h2
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" width="300" height="300"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.png" width="300" height="300"/>
