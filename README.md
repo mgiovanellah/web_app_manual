@@ -20,4 +20,5 @@ The product register is a web application that facilitates the registration of p
 We’re using GitHub Discussions to create conversations around product register. It is a place for our community to connect with each other around ideas, questions, issues, and suggestions.
 </p>
 
-© Mgiovanellah
+<h2>License</h2>
+<p>© Mgiovanellah</p>
