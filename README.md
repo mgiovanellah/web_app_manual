@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/79415128/148538300-0bb2ae49-3120-408c-92d0-740f576e9b32.png" width="400" height="400"/>
+<div style="text-align:center"><img src="https://user-images.githubusercontent.com/79415128/148538300-0bb2ae49-3120-408c-92d0-740f576e9b32.png" width="400"</></div> height="400"/>
 
 
 This README would normally document whatever steps are necessary to get the
