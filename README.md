@@ -3,7 +3,8 @@
 </p>
 
 <h2>Overview</h2>
-The product register is a web application that facilitates the registration of products easily and quickly, helping the user to have no complications 😄
+The product register is a web application that facilitates the registration of products easily and quickly, helping the user to have no complications 😄.
+The user connects to the web application and registers the product having access to information such as prices, image, id...
 
 <h2>Technology and Tools</h2>
 <p>
@@ -26,4 +27,4 @@ We’re using GitHub Discussions to create conversations around product register
 <h2>Contact📫</h2>
 <p>mgiovanellah@gmail.com</p>
 
-<h3>Enjoy this application</h3>
+<h3>Enjoy this application!</h3>
