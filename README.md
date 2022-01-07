@@ -22,3 +22,8 @@ We’re using GitHub Discussions to create conversations around product register
 
 <h2>License</h2>
 <p>© Mgiovanellah</p>
+
+<h2>Contact📫</h2>
+<p>mgiovanellah@gmail.com</p>
+
+<h3>Enjoy this application</h3>
